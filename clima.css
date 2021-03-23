@@ -1,0 +1,33 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 12%, rgba(1,117,156,1) 54%, rgba(0,212,255,1) 88%);
+}
+
+#formulario{
+    margin-left: 450px;
+    margin-top: 100px;
+}
+
+#titulo{
+    margin-top: 30px;
+    color: white;
+    margin-left: 540px;
+}
+
+#resultado{
+    margin-left: 480px;
+    color: white;
+    margin-top: 50px;
+}
+#boton{
+    margin-left: 160px;
+}
+
+#mensajeError{
+    margin-left: 480px;
+    width: 500px;
+    height: 100px;   
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
